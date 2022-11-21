@@ -1,0 +1,981 @@
+institution,ranking
+University of Oxford,1
+California Institute of Technology,2
+Stanford University,3
+University of Cambridge,4
+Massachusetts Institute of Technology,5
+Harvard University,6
+Princeton University,7
+Imperial College London,8
+ETH Zurich,9
+University of Chicago,10
+"University of California, Berkeley",10
+Yale University,12
+University of Pennsylvania,13
+"University of California, Los Angeles",14
+UCL,15
+Columbia University,16
+Johns Hopkins University,17
+Duke University,18
+Cornell University,19
+Northwestern University,20
+University of Michigan-Ann Arbor,21
+University of Toronto,22
+Carnegie Mellon University,23
+National University of Singapore,24
+University of Washington,25
+London School of Economics and Political Science,25
+University of Edinburgh,27
+Karolinska Institute,28
+Peking University,29
+École Polytechnique Fédérale de Lausanne,30
+LMU Munich,30
+New York University,32
+University of Melbourne,33
+Georgia Institute of Technology,33
+Tsinghua University,35
+King’s College London,36
+University of Illinois at Urbana-Champaign,36
+University of British Columbia,36
+The University of Tokyo,39
+KU Leuven,40
+"University of California, San Diego",41
+McGill University,42
+University of Hong Kong,43
+Heidelberg University,43
+University of Wisconsin-Madison,45
+Technical University of Munich,46
+Australian National University,47
+The Hong Kong University of Science and Technology,48
+"University of California, Santa Barbara",48
+University of Texas at Austin,50
+"University of California, Davis",51
+Brown University,51
+University of Minnesota,53
+"Nanyang Technological University, Singapore",54
+University of Manchester,55
+University of North Carolina at Chapel Hill,56
+Humboldt University of Berlin,57
+Washington University in St Louis,58
+Delft University of Technology,59
+University of Sydney,60
+University of Southern California,60
+The University of Queensland,60
+University of Amsterdam,63
+Boston University,64
+Wageningen University & Research,65
+École Normale Supérieure,66
+"University of Maryland, College Park",67
+Penn State (Main campus),68
+Erasmus University Rotterdam,69
+Purdue University West Lafayette,70
+University of Bristol,71
+Seoul National University,72
+Ohio State University (Main campus),72
+Monash University,74
+Free University of Berlin,75
+Chinese University of Hong Kong,76
+Leiden University,77
+RWTH Aachen University,78
+UNSW Sydney,78
+University of Pittsburgh-Pittsburgh campus,80
+University of Groningen,80
+University of Warwick,82
+Technical University of Berlin,82
+Emory University,82
+Dartmouth College,82
+Utrecht University,86
+Rice University,87
+University of Tübingen,88
+Korea Advanced Institute of Science and Technology (KAIST),88
+University of Glasgow,88
+Kyoto University,91
+University of Helsinki,91
+Uppsala University,93
+Maastricht University,94
+University of Freiburg,95
+Lund University,96
+Durham University,96
+University of Basel,98
+"University of California, Irvine",99
+Aarhus University,99
+Michigan State University,101
+University of Mannheim,102
+University of Montreal,103
+Pohang University of Science and Technology (POSTECH),104
+Georgetown University,104
+University of Alberta,106
+University of Zurich,106
+Vanderbilt University,108
+University of Sheffield,109
+University of St Andrews,110
+University of Bern,110
+University of Göttingen,112
+Queen Mary University of London,113
+McMaster University,113
+University of Bonn,113
+École Polytechnique,116
+University of Colorado Boulder,116
+Ghent University,118
+City University of Hong Kong,119
+University of Southampton,120
+Pierre and Marie Curie University,120
+University of Copenhagen,120
+University of Virginia (Main campus),123
+Radboud University Nijmegen,123
+University of Western Australia,125
+University of Exeter,126
+Case Western Reserve University,126
+Université Catholique de Louvain,128
+University of Birmingham,129
+University of York,129
+Trinity College Dublin,131
+Arizona State University (Tempe),131
+University of Oslo,133
+University of Leeds,134
+University of Florida,135
+Ulm University,136
+Tufts University,137
+Sungkyunkwan University (SKKU),138
+Scuola Normale Superiore di Pisa,138
+Lancaster University,138
+University of Geneva,138
+"Rutgers, the State University of New Jersey",142
+University of Adelaide,143
+University of Notre Dame,144
+Stockholm University,145
+Karlsruhe Institute of Technology,145
+"University of California, Santa Cruz",147
+University of Nottingham,148
+University of Cape Town,149
+University of Sussex,150
+Indiana University,151
+University of Rochester,152
+University of Lausanne,152
+University of Twente,154
+University of Science and Technology of China,154
+Vrije Universiteit Amsterdam,156
+University of Arizona,156
+Fudan University,156
+University of Liverpool,159
+KTH Royal Institute of Technology,160
+University of Erlangen-Nuremberg,161
+University of Vienna,162
+University of Münster,162
+Autonomous University of Barcelona,164
+TU Dresden,165
+University of Massachusetts,166
+University of East Anglia,166
+"University of California, Riverside",166
+University of Auckland,166
+Texas A&M University,170
+University of Gothenburg,171
+University of Cologne,171
+University of Leicester,173
+University of Waterloo,174
+"Royal Holloway, University of London",174
+Pompeu Fabra University,176
+Technical University of Denmark,177
+Eindhoven University of Technology,178
+University of Luxembourg,179
+Paris-Sud University,180
+University of Hamburg,181
+University of Dundee,181
+University of the Witwatersrand,183
+University of Miami,183
+Cardiff University,183
+University of Würzburg,186
+Hebrew University of Jerusalem,186
+Lomonosov Moscow State University,188
+University of Aberdeen,188
+Sant’Anna School of Advanced Studies – Pisa,190
+Newcastle University,190
+University of Reading,192
+Hong Kong Polytechnic University,192
+University of Konstanz,194
+National Taiwan University,195
+University of Calgary,195
+Tilburg University,197
+Brandeis University,197
+University of Duisburg-Essen,197
+University of Illinois at Chicago,200
+Queen’s University Belfast,201
+Université libre de Bruxelles,201
+University of Antwerp,201
+University of Technology Sydney,204
+Western University,205
+University of Utah,205
+University College Dublin,207
+University of Bergen,207
+University of Texas at Dallas,209
+University of Otago,210
+University of Hawai’i at Mānoa,210
+University of Kiel,212
+Boston College,212
+Shanghai Jiao Tong University,214
+Paris Diderot University – Paris 7,215
+Zhejiang University,216
+Tel Aviv University,216
+University of Barcelona,216
+Stony Brook University,219
+ESPCI ParisTech,220
+"St George’s, University of London",221
+Florida State University,222
+RCSI University of Medicine and Health Sciences,223
+Aalborg University,224
+Wake Forest University,225
+King Abdulaziz University,225
+University of Delaware,225
+Tohoku University,228
+University of Stuttgart,228
+George Washington University,228
+Aalto University,228
+École Normale Supérieure de Lyon,232
+Simon Fraser University,233
+Nanjing University,233
+University of Bologna,235
+University of Trento,236
+Queensland University of Technology,237
+Paris Descartes University,237
+Goethe University Frankfurt,239
+Polytechnic University of Milan,240
+University of South Florida (Tampa),241
+University of Newcastle,242
+University of Iowa,243
+University of Iceland,243
+Technical University of Darmstadt,245
+"National University of Ireland, Galway",245
+University of Oulu,247
+Indian Institute of Science,247
+North Carolina State University,249
+Korea University,249
+Queen’s University,251
+University of Cincinnati,251
+CentraleSupélec,251
+"Birkbeck, University of London",251
+Tokyo Institute of Technology,255
+Chalmers University of Technology,255
+Sapienza University of Rome,257
+Osaka University,257
+University of São Paulo,259
+Macquarie University,259
+Dalhousie University,259
+Bielefeld University,259
+Johannes Gutenberg University of Mainz,263
+University at Buffalo,263
+Mines ParisTech,265
+Laval University,265
+University of Bath,265
+Oregon Health and Science University,268
+Charles Darwin University,268
+University of Southern Denmark,270
+Rensselaer Polytechnic Institute,270
+University of Marburg,270
+Swedish University of Agricultural Sciences,273
+Rush University,274
+University of Wollongong,275
+James Cook University,275
+Griffith University,277
+University of Fribourg,277
+Colorado School of Mines,277
+William & Mary,280
+University of Surrey,280
+Free University of Bozen-Bolzano,280
+University of Bayreuth,283
+Umeå University,284
+Norwegian University of Science and Technology,284
+Virginia Polytechnic Institute and State University,286
+The University of Tennessee-Knoxville,286
+University of Ottawa,288
+Syracuse University,289
+University of South Australia,289
+Ruhr University Bochum,289
+University of Hohenheim,289
+Yonsei University,293
+TU Wien,293
+Copenhagen Business School,295
+University of Tampere,296
+Koç University,296
+National Tsing Hua University,298
+Deakin University,299
+"Goldsmiths, University of London",300
+University of Victoria,301
+Technion Israel Institute of Technology,301
+Gwangju Institute of Science and Technology,301
+Anglia Ruskin University ARU,301
+Clark University,305
+University of Bremen,305
+University of Innsbruck,307
+University of Tartu,308
+University of Nebraska-Lincoln,308
+Loughborough University,308
+University of Essex,308
+Central European University,308
+Moscow Institute of Physics and Technology (MIPT),313
+University of Bordeaux,313
+Aix-Marseille University,313
+York University,316
+University of Tasmania,316
+Oregon State University,316
+University of Liège,316
+Nagoya University,320
+Aberystwyth University,321
+Swansea University,322
+University of Milan,322
+University of Connecticut,322
+University of Alaska Fairbanks,322
+Vrije Universiteit Brussel,326
+University of Oregon,327
+University of Kent,327
+University of Georgia,327
+George Mason University,327
+University of Denver,327
+University of Stirling,332
+Saint Louis University,332
+University of Padua,332
+Justus Liebig University Giessen,332
+Federal University of Toulouse Midi-Pyrénées,332
+Brunel University London,332
+Temple University,338
+Royal Veterinary College,338
+Grenoble Alpes University,338
+"Colorado State University, Fort Collins",338
+University of Turku,342
+Linköping University,342
+University of Navarra,344
+Sabancı University,345
+TU Dortmund University,346
+University of Strasbourg,346
+University of Pavia,346
+Bangor University,349
+University of Crete,350
+University of Calabria,351
+University of Eastern Finland,352
+Washington State University,353
+Autonomous University of Madrid,354
+Leibniz University Hannover,354
+University of Trieste,356
+Maynooth University,356
+University of Milan-Bicocca,356
+Montpellier University,359
+University of Cyprus,359
+University of Canterbury,359
+Wayne State University,362
+Victoria University,362
+Kyung Hee University,364
+University of Plymouth,365
+Indian Institute of Technology Bombay,365
+University of Houston,365
+"City, University of London",365
+Paris-Sorbonne University – Paris 4,369
+Tulane University,370
+Iowa State University,370
+University College Cork,370
+École des Ponts ParisTech,373
+Norwegian University of Life Sciences,374
+University of Kentucky,374
+University of Texas at San Antonio,376
+Örebro University,377
+University of Salerno,377
+La Trobe University,377
+Victoria University of Wellington,380
+Toyota Technological Institute,380
+Swinburne University of Technology,380
+University of Missouri-Columbia,380
+University of Turin,384
+Polytechnic University of Turin,384
+ITMO University,384
+Flinders University,384
+Bilkent University,384
+University of Kansas,389
+Graz University of Technology,389
+University of Oklahoma,391
+Aston University,391
+Hong Kong Baptist University,393
+Kyushu University,394
+Claude Bernard University Lyon 1,394
+"Binghamton University, State University of New York",394
+Hanyang University,397
+University of Kaiserslautern,398
+University of Guelph,398
+Drexel University,398
+University of Macau,401
+Murdoch University,402
+University of Saskatchewan,403
+University of Greifswald,403
+Saint Petersburg State University,405
+National Research Nuclear University MEPhI,405
+National Chiao Tung University,405
+Marche Polytechnic University,405
+University of Lisbon,405
+UiT The Arctic University of Norway,410
+University of Rome III,410
+University of Montana,410
+American University,410
+Verona University,414
+Sun Yat-sen University,414
+San Diego State University,414
+University of Rovira i Virgili,414
+University of Pisa,414
+Curtin University,419
+University of Siegen,420
+National Taiwan University of Science and Technology (Taiwan Tech),420
+Charles University in Prague,420
+Western Sydney University,423
+Makerere University,423
+University of Genoa,423
+University of Manitoba,426
+Georgia State University,426
+University of Campinas,426
+RMIT University,429
+Northern Arizona University,429
+Heriot-Watt University,429
+Hasselt University,429
+Stellenbosch University,433
+Hokkaido University,434
+Lincoln University,435
+University of Tsukuba,436
+University of St Gallen,436
+Central Queensland University,438
+University of Florence,439
+Cyprus University of Technology,439
+Tokyo Medical and Dental University (TMDU),441
+Lehigh University,441
+Dublin City University,441
+University of Naples Federico II,444
+Boğaziçi University,445
+University of Waikato,446
+Indian Institute of Technology Delhi,446
+University of Ferrara,446
+University of Rome II – Tor Vergata,449
+Wuhan University,450
+Novosibirsk State University,451
+Université du Québec à Montréal,452
+University of Graz,452
+University of Brescia,452
+University of Bari Aldo Moro,452
+HSE University,456
+University of Aveiro,456
+Kent State University,458
+University of Portsmouth,459
+Florida International University,459
+Ewha Womans University,459
+University of Modena and Reggio Emilia,462
+Atılım University,462
+University of Strathclyde,464
+Stevens Institute of Technology,464
+University of Neuchâtel,464
+University of Bergamo,467
+SOAS University of London,468
+National Cheng Kung University (NCKU),469
+Keele University,469
+University of Canberra,469
+Indian Institute of Technology Madras,472
+Tokyo Metropolitan University,473
+Renmin University of China,474
+École normale supérieure Paris-Saclay,475
+University of Nantes,475
+University of Lille,475
+Kazan Federal University,475
+University of Jyväskylä,475
+University of Coimbra,475
+Polytechnic University of Catalonia,475
+University of Salento,482
+University of Porto,482
+Massey University,482
+King Fahd University of Petroleum and Minerals,482
+Panthéon-Sorbonne University – Paris 1,486
+Oxford Brookes University,486
+New Mexico State University (Main campus),486
+Federico Santa María Technical University,489
+Bar-Ilan University,489
+University of Nice Sophia Antipolis,491
+Aristotle University of Thessaloniki,491
+Huazhong University of Science and Technology,493
+Xiamen University,494
+Chung-Ang University,495
+The Open University,496
+"University of Maryland, Baltimore County",496
+Pontifical Catholic University of Chile,498
+Johannes Kepler University of Linz,498
+Indian Institute of Technology Kanpur,498
+University of Ulsan,501
+University of Palermo,501
+University of Hull,501
+Tongji University,504
+University of KwaZulu-Natal,504
+Semmelweis University,506
+King Saud University,506
+Complutense University of Madrid,506
+University of Tulsa,509
+University of Rennes 1,509
+"Khalifa University of Science, Technology and Research",509
+Concordia University,509
+NOVA University of Lisbon,513
+National Institute of Applied Sciences of Lyon (INSA Lyon),513
+University of Ioannina,513
+Indian Institute of Technology Roorkee,513
+East China Normal University,513
+Creighton University,513
+Montana State University,519
+Ca’ Foscari University of Venice,519
+Qatar University,521
+"China Medical University, Taiwan",521
+University of Catania,521
+Xi’an Jiaotong University,524
+Tomsk Polytechnic University,524
+University of Hertfordshire,524
+Université Bourgogne Franche-Comté (UBFC),524
+United Arab Emirates University,528
+University of Parma,528
+University of Limerick,528
+Polytechnic University of Valencia,531
+Liverpool John Moores University,531
+American University of Beirut,531
+Soochow University,534
+New Jersey Institute of Technology,534
+Ulster University,536
+National and Kapodistrian University of Athens,536
+Louisiana State University,538
+State University of New York Albany,539
+Southern Cross University,539
+University of Valencia,541
+Indian Institute of Technology Kharagpur,541
+Edith Cowan University,541
+Oklahoma State University,544
+Monterrey Institute of Technology,544
+Lappeenranta-Lahti University of Technology LUT,544
+Auckland University of Technology,544
+"University of the Andes, Colombia",544
+University of Wisconsin-Milwaukee,549
+Bond University,549
+National Autonomous University of Mexico,551
+Tampere University of Technology,552
+Sharif University of Technology,552
+Pontifical Javeriana University,554
+Roskilde University,555
+Old Dominion University,555
+East China University of Science and Technology,555
+University of Warsaw,558
+University of Siena,558
+Memorial University of Newfoundland,558
+Southeast University,561
+University of Minho,562
+University of Cagliari,562
+Ben-Gurion University of the Negev,564
+Missouri University of Science and Technology,565
+University of Granada,565
+Université de Sherbrooke,567
+Kansas State University,567
+Harbin Institute of Technology,567
+University of Texas at Arlington,570
+University of the Sunshine Coast,570
+Carleton University,572
+University of the Basque Country,572
+University of Nebraska Medical Center,574
+Iran University of Science and Technology,575
+Tianjin University,576
+Warsaw University of Technology,577
+Sogang University,577
+Istanbul Technical University,577
+University of Paderborn,580
+Sejong University,581
+Middlesex University,581
+Hiroshima University,581
+University of Chile,581
+Catholic University of the Sacred Heart,581
+National Taiwan Normal University,586
+Mahidol University,586
+University of Zaragoza,588
+Pusan National University,588
+University of Urbino Carlo Bo,590
+University of Toledo,590
+China Agricultural University,592
+Tomsk State University,593
+Otto von Guericke University of Magdeburg,593
+University of Arkansas,595
+University of Regina,596
+Athens University of Economics and Business,596
+National Yang-Ming University,598
+University of Maribor,598
+Indian Institute of Technology Guwahati,600
+Jadavpur University,600
+Federal University of São Paulo (UNIFESP),602
+Tata Institute of Fundamental Research,603
+Keio University,603
+École Centrale de Lyon,605
+Clemson University,605
+National Sun Yat-Sen University,607
+Nanjing Medical University,607
+Taipei Medical University,609
+Middle East Technical University,609
+Isfahan University of Technology,609
+Czech Technical University in Prague,609
+Yeungnam University,613
+University of the Western Cape,613
+South China University of Technology,613
+Miami University,613
+Masaryk University,613
+Australian Catholic University,613
+University of Santiago de Compostela,619
+University of Pretoria,619
+University of La Laguna,619
+Pontifical Catholic University of Rio de Janeiro (PUC-Rio),622
+Quaid-i-Azam University,623
+Palacký University Olomouc,624
+Kanazawa University,625
+Jagiellonian University,625
+Northumbria University,627
+Diego Portales University,627
+Waseda University,629
+Jordan University of Science and Technology,630
+Chiba University,630
+Carlos III University of Madrid,630
+University of Haifa,633
+Universiti Teknologi Malaysia,634
+University of Greenwich,634
+Florida Institute of Technology,634
+Amirkabir University of Technology,634
+Panjab University,638
+University of Beira Interior,638
+Tehran University of Medical Sciences,640
+University of Oviedo,640
+Bournemouth University,640
+Auburn University,640
+Tallinn University of Technology,644
+Northeast Normal University,644
+Glasgow Caledonian University,644
+University of Delhi,644
+De Montfort University,648
+Osaka City University,649
+Nanjing Agricultural University,649
+"China University of Geosciences, Wuhan",649
+University of Brighton,649
+University of Salamanca,653
+University of North Carolina at Greensboro,653
+National Central University,653
+King Mongkut’s University of Technology Thonburi,653
+University of Jaén,653
+Chang Gung University,653
+Universiti Putra Malaysia,659
+Alfaisal University,659
+University of the West of England,661
+Dalian University of Technology,661
+Kobe University,663
+Texas Tech University,664
+COMSATS University Islamabad,664
+Tezpur University,666
+Kochi University,666
+Eötvös Loránd University,668
+University of the West of Scotland,669
+Ehime University,669
+Kingston University,671
+University of Bradford,672
+Vilnius University,673
+University of Alcalá,673
+Technical University of Madrid,675
+University of Pécs,676
+Manchester Metropolitan University,676
+Tokyo University of Agriculture and Technology,678
+Kumamoto University,678
+Federal University of Minas Gerais,678
+Beijing Institute of Technology,678
+Babeş-Bolyai University,678
+Sichuan University,683
+University of Seville,683
+Rochester Institute of Technology,685
+Peter the Great St Petersburg Polytechnic University,685
+University of Ljubljana,685
+Juntendo University,685
+Ohio University (Main campus),689
+Nagoya City University,689
+Konkuk University,689
+ISCTE-University Institute of Lisbon,689
+University of Szeged,693
+Federal University of Rio de Janeiro,693
+University of Southern Queensland,695
+University of Salford,695
+Hunan University,695
+Universiti Sains Malaysia,698
+Okayama University,698
+Feng Chia University,700
+University of Central Lancashire,700
+Yokohama City University,702
+National University of Sciences and Technology,702
+Kuwait University,702
+Inha University,702
+University of Ghana,702
+Coventry University,702
+Nottingham Trent University,708
+Hacettepe University,708
+AGH University of Science and Technology,708
+University of Patras,711
+University of Westminster,712
+Tokyo University of Science,712
+Chulalongkorn University,712
+Jilin University,715
+Aligarh Muslim University,715
+Universiti Teknologi Petronas,717
+University of Huddersfield,717
+Dublin Institute of Technology,717
+Federal University of Rio Grande do Sul,720
+University of Texas at El Paso,721
+University of Castilla-La Mancha,721
+University of Murcia,723
+Kaohsiung Medical University,723
+Brno University of Technology,723
+University of Vigo,726
+Teesside University,726
+Northwestern Polytechnical University,726
+University of Johannesburg,726
+Budapest University of Technology and Economics,726
+Savitribai Phule Pune University,731
+University Rey Juan Carlos,731
+Comenius University in Bratislava,731
+Shantou University,734
+Federal University of ABC (UFABC),734
+Suez Canal University,736
+University of Roehampton,736
+Universiti Kebangsaan Malaysia,736
+"China University of Petroleum, Beijing",736
+University of Windsor,740
+Chiang Mai University,740
+Ajou University,742
+Sultan Qaboos University,743
+Chonnam National University,743
+Pontifical Catholic University of Rio Grande do Sul (PUCRS),745
+London Metropolitan University,745
+University of Tehran,747
+"University of Chemistry and Technology, Prague",747
+Capital Medical University,747
+"Birla Institute of Technology and Science, Pilani",747
+American University in Cairo,747
+Edinburgh Napier University,752
+Jeonbuk National University,752
+University of Science and Technology Beijing,754
+Tokushima University,755
+Nanjing Normal University,755
+University of Lincoln,755
+Hofstra University,755
+University of Bedfordshire,755
+American University of Sharjah,755
+Shinshu University,761
+Federal University of Santa Catarina,761
+National Institute of Technology Rourkela,763
+Leeds Beckett University,763
+Sohag University,765
+National Taiwan Ocean University,765
+National Chung Hsing University,765
+Kyungpook National University,765
+Kindai University,765
+Istanbul University,765
+K.N. Toosi University of Technology,771
+National Chung Cheng University,772
+University of Calcutta,772
+Toyohashi University of Technology (TUT),774
+Yuan Ze University,775
+Eastern Mediterranean University,775
+University of Concepción,775
+West University of Timişoara,778
+Nagoya Institute of Technology,778
+Bauman Moscow State Technical University,778
+Northeastern University,778
+São Paulo State University (UNESP),782
+Jikei University School of Medicine,782
+University of East London,782
+Suranaree University of Technology,785
+Shiraz University,785
+Chung Yuan Christian University,785
+"Asia University, Taiwan",785
+Yamagata University,789
+Sri Venkateswara University,790
+Federal University of Paraná (UFPR),791
+University of Yamanashi,792
+Izmir Institute of Technology,793
+TOBB University of Economics and Technology,793
+Oakland University,793
+Nagasaki University,793
+University of Antioquia,797
+Niigata University,798
+University of La Frontera,798
+Austral University of Chile,798
+University of A Coruña,798
+Nagaoka University of Technology,802
+University of Belgrade,802
+Sheffield Hallam University,804
+Saitama University,804
+National Research Saratov State University,804
+Central South University,804
+University of Toyama,808
+National University of Science and Technology (MISiS),808
+Jinan University,808
+Xiangtan University,811
+University of Southern Mississippi,811
+Shanghai University,811
+University of Debrecen,811
+Yazd University,815
+Gdańsk University of Technology,815
+Erciyes University,815
+Chongqing University,815
+University of Cergy-Pontoise,815
+Yokohama National University,820
+Osaka Prefecture University,820
+Khon Kaen University,820
+University of Zagreb,823
+Ocean University of China,823
+University of Latvia,823
+University of Seoul,826
+Alexandria University,826
+King Mongkut’s Institute of Technology Ladkrabang,828
+Federal University of Lavras,828
+Robert Gordon University,830
+Prince of Songkla University,830
+National Taipei University of Technology,830
+Chuo University,830
+VSB - Technical University of Ostrava,834
+Saitama Medical University,834
+Rio de Janeiro State University (UERJ),834
+University of Nairobi,834
+Gifu University,834
+Alexandru Ioan Cuza University,834
+"Adam Mickiewicz University, Poznań",834
+University of Marrakech Cadi Ayyad,841
+London South Bank University,841
+Tokyo University of Marine Science and Technology,843
+Tokai University,843
+"University of Agriculture, Faisalabad",843
+Tomas Bata University in Zlín,846
+Shahid Beheshti University,846
+University of the Philippines,846
+National Chengchi University,846
+Czech University of Life Sciences Prague (CULS),846
+Taras Shevchenko National University of Kyiv,851
+Cairo University,851
+Belarusian State University,853
+University of West Bohemia,854
+University of Silesia in Katowice,854
+University of Ibadan,856
+Gunma University,856
+Chungnam National University,856
+Pontifical Catholic University of Paraná,859
+Wuhan University of Technology,860
+University of Jordan,860
+University of Costa Rica,860
+Osmania University,863
+I-Shou University,863
+Simón Bolívar University,865
+Showa University,865
+Pontifical Catholic University of Valparaíso,865
+China University of Mining and Technology,865
+Bahauddin Zakariya University,865
+Yamaguchi University,870
+Xidian University,870
+Slovak University of Technology in Bratislava,870
+Shizuoka University,870
+Shaanxi Normal University,870
+Lobachevsky State University of Nizhni Novgorod,870
+Acharya Nagarjuna University,870
+Yıldız Technical University,877
+South Valley University,877
+University of Pardubice,877
+Nanjing Tech University,877
+Kyushu Institute of Technology (Kyutech),877
+Tottori University,882
+Fu Jen Catholic University,883
+University of Talca,884
+Riga Technical University,884
+National Research University of Electronic Technology (MIET),884
+University of Indonesia,884
+Sofia University,888
+Nicolaus Copernicus University in Toruń,888
+Jiangsu University,888
+Ferdowsi University of Mashhad,888
+Meiji University,892
+University of South Africa,893
+Federal University of São Carlos,893
+Ural Federal University,895
+Mohammed V University of Rabat,895
+Sophia University,897
+Southern Federal University,898
+RUDN University,898
+Samara State Aerospace University,900
+Mansoura University,900
+Federal University of Ceará (UFC),900
+Cochin University of Science and Technology,900
+Andhra University,900
+Shimane University,905
+"University of Santiago, Chile (USACH)",905
+Kansai University,905
+Hashemite University,905
+University of Tlemcen,909
+Amrita Vishwa Vidyapeetham,910
+Universiti Utara Malaysia,911
+Federal University of Rio Grande do Norte (UFRN),911
+University of Bucharest,911
+Autonomous University of Yucatán,914
+Iwate University,914
+V.N. Karazin Kharkiv National University,916
+Oita University,916
+Federal University of Pernambuco,916
+Ain Shams University,916
+Southwest Jiaotong University,920
+Maharaja Sayajirao University of Baroda,921
+University of Łódź,922
+"University of the Andes, Venezuela",922
+Federal University of Goiás,924
+Embry-Riddle Aeronautical University,924
+Bandung Institute of Technology (ITB),924
+Ritsumeikan University,927
+University of Tunis El Manar,928
+Tamkang University,928
+Federal University of Viçosa,928
+University of Monastir,931
+Kasetsart University,931
+Novosibirsk State Technical University,933
+University of Electronic Science and Technology of China,933
+Hallym University,935
+Sechenov University,936
+Islamic Azad University Karaj,937
+Federal University of Bahia,937
+Gazi University,939
+Fluminense Federal University,939
+Tokyo City University,941
+University of Colombo,942
+Anadolu University,942
+Universiti Teknologi MARA,944
+Utsunomiya University,945
+Technical University of Liberec,945
+National University of the South,945
+University of Lahore,945
+Manipal Academy of Higher Education,949
+Londrina State University,949
+Kaunas University of Technology,949
+Hosei University,949
+Ankara University,949
+SASTRA University,954
+Autonomous University of Puebla,954
+National Technical University of Ukraine – Igor Sikorsky Kyiv Polytechnic Institute,956
+University of Karachi,957
+Siberian Federal University,958
+Federal University of Ouro Preto,958
+Amity University,958
+Federal University of Santa Maria,961
+Chiba Institute of Technology,962
+Sidi Mohamed Ben Abdellah University,963
+Shibaura Institute of Technology Tokyo,963
+VIT University,965
+State University of Maringá,965
+Ming Chuan University,965
+Autonomous University of the State of Mexico,965
+Kwansei Gakuin University,969
+Doshisha University,970
+Voronezh State University,971
+Marmara University,971
+Autonomous University of Nuevo León,971
+SRM Institute of Science and Technology,974
+University of Zanjan,975
+Ivane Javakhishvili Tbilisi State University,975
+Lviv Polytechnic National University,977
+University of Guadalajara,978
+Sathyabama Institute of Science and Technology,979
+Tokyo Denki University,980

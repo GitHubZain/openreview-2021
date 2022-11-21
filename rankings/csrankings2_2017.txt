@@ -1,0 +1,485 @@
+#	Institution                    	Count	 Faculty
+1    	► Carnegie Mellon University  closed piechart	2.9	106
+2   	► Univ. of California - Berkeley  closed piechart	2.4	59
+3   	► Stanford University  closed piechart	2.3	55
+3   	► Univ. of California - San Diego  closed piechart	2.3	72
+5   	► Cornell University  closed piechart	2.2	66
+5   	► Tsinghua University  closed piechart	2.2	78
+5   	► Univ. of Illinois at Urbana-Champaign  closed piechart	2.2	71
+5   	► University of Washington  closed piechart	2.2	56
+9   	► ETH Zurich  closed piechart	2.1	36
+9   	► Massachusetts Institute of Technology  closed piechart	2.1	57
+11  	► Georgia Institute of Technology  closed piechart	2.0	61
+11  	► University of Maryland - College Park  closed piechart	2.0	50
+11  	► University of Michigan  closed piechart	2.0	66
+14  	► Peking University  closed piechart	1.8	69
+15  	► EPFL  closed piechart	1.7	42
+15  	► Max Planck Society  closed piechart	1.7	29
+15  	► National University of Singapore  closed piechart	1.7	39
+15  	► Northeastern University  closed piechart	1.7	39
+15  	► University of Massachusetts Amherst  closed piechart	1.7	37
+15  	► University of Pennsylvania  closed piechart	1.7	37
+15  	► University of Wisconsin - Madison  closed piechart	1.7	37
+22  	► Duke University  closed piechart	1.6	23
+22  	► KAIST  closed piechart	1.6	49
+22  	► New York University  closed piechart	1.6	35
+22  	► Purdue University  closed piechart	1.6	36
+22  	► Rutgers University  closed piechart	1.6	34
+22  	► Technion  closed piechart	1.6	47
+22  	► University of Southern California  closed piechart	1.6	33
+22  	► University of Texas at Austin  closed piechart	1.6	31
+22  	► University of Toronto  closed piechart	1.6	43
+31  	► Chinese Academy of Sciences  closed piechart	1.5	41
+31  	► Chinese University of Hong Kong  closed piechart	1.5	27
+31  	► Columbia University  closed piechart	1.5	31
+31  	► HKUST  closed piechart	1.5	26
+31  	► Imperial College London  closed piechart	1.5	28
+31  	► Nanyang Technological University  closed piechart	1.5	33
+31  	► Pennsylvania State University  closed piechart	1.5	32
+31  	► Stony Brook University  closed piechart	1.5	30
+31  	► Tel Aviv University  closed piechart	1.5	30
+31  	► Univ. of California - Irvine  closed piechart	1.5	34
+31  	► Univ. of California - Los Angeles  closed piechart	1.5	29
+31  	► University College London  closed piechart	1.5	35
+31  	► University of Edinburgh  closed piechart	1.5	31
+31  	► University of Oxford  closed piechart	1.5	30
+31  	► University of Waterloo  closed piechart	1.5	36
+46  	► Harvard University  closed piechart	1.4	22
+46  	► Johns Hopkins University  closed piechart	1.4	21
+46  	► Nanjing University  closed piechart	1.4	38
+46  	► Northwestern University  closed piechart	1.4	26
+46  	► Princeton University  closed piechart	1.4	28
+46  	► Seoul National University  closed piechart	1.4	31
+46  	► Shanghai Jiao Tong University  closed piechart	1.4	36
+46  	► Simon Fraser University  closed piechart	1.4	27
+46  	► TU Darmstadt  closed piechart	1.4	15
+46  	► TU Munich  closed piechart	1.4	27
+46  	► Texas A&M University  closed piechart	1.4	24
+46  	► Univ. of California - Santa Barbara  closed piechart	1.4	26
+46  	► Univ. of California - Santa Cruz  closed piechart	1.4	24
+46  	► University of Chicago  closed piechart	1.4	25
+46  	► University of Illinois at Chicago  closed piechart	1.4	26
+46  	► University of Melbourne  closed piechart	1.4	28
+46  	► University of Minnesota  closed piechart	1.4	23
+46  	► University of Sydney  closed piechart	1.4	15
+46  	► University of Tokyo  closed piechart	1.4	25
+46  	► University of Virginia  closed piechart	1.4	23
+46  	► Zhejiang University  closed piechart	1.4	45
+67  	► Arizona State University  closed piechart	1.3	16
+67  	► Bar-Ilan University  closed piechart	1.3	15
+67  	► Boston University  closed piechart	1.3	20
+67  	► Fudan University  closed piechart	1.3	22
+67  	► Hebrew University of Jerusalem  closed piechart	1.3	23
+67  	► Indiana University  closed piechart	1.3	24
+67  	► Ohio State University  closed piechart	1.3	18
+67  	► Oregon State University  closed piechart	1.3	20
+67  	► Renmin University of China  closed piechart	1.3	25
+67  	► Saarland University  closed piechart	1.3	10
+67  	► Singapore Management University  closed piechart	1.3	24
+67  	► Univ. of California - Riverside  closed piechart	1.3	23
+67  	► University at Buffalo  closed piechart	1.3	17
+67  	► University of Adelaide  closed piechart	1.3	15
+67  	► University of British Columbia  closed piechart	1.3	24
+67  	► University of Cambridge  closed piechart	1.3	18
+67  	► University of Central Florida  closed piechart	1.3	15
+67  	► University of Colorado Boulder  closed piechart	1.3	28
+67  	► University of Copenhagen  closed piechart	1.3	17
+67  	► University of North Carolina  closed piechart	1.3	19
+67  	► University of Pittsburgh  closed piechart	1.3	18
+67  	► University of Technology Sydney  closed piechart	1.3	22
+67  	► University of Utah  closed piechart	1.3	20
+67  	► Virginia Tech  closed piechart	1.3	20
+67  	► Yale University  closed piechart	1.3	13
+92  	► Aarhus University  closed piechart	1.2	15
+92  	► Australian National University  closed piechart	1.2	15
+92  	► Beihang University  closed piechart	1.2	21
+92  	► Brown University  closed piechart	1.2	12
+92  	► CISPA Helmholtz Center  closed piechart	1.2	15
+92  	► CRIStAL  closed piechart	1.2	16
+92  	► California Institute of Technology  closed piechart	1.2	10
+92  	► Czech Technical University  closed piechart	1.2	14
+92  	► Ecole Normale Superieure  closed piechart	1.2	16
+92  	► George Mason University  closed piechart	1.2	13
+92  	► Graz University of Technology  closed piechart	1.2	15
+92  	► Harbin Institute of Technology  closed piechart	1.2	13
+92  	► IIT Kanpur  closed piechart	1.2	13
+92  	► IST Austria  closed piechart	1.2	8
+92  	► KAUST  closed piechart	1.2	11
+92  	► McGill University  closed piechart	1.2	11
+92  	► Michigan State University  closed piechart	1.2	11
+92  	► Monash University  closed piechart	1.2	16
+92  	► NWPU  closed piechart	1.2	11
+92  	► National Taiwan University  closed piechart	1.2	13
+92  	► North Carolina State University  closed piechart	1.2	17
+92  	► POSTECH  closed piechart	1.2	13
+92  	► RWTH Aachen  closed piechart	1.2	9
+92  	► Rice University  closed piechart	1.2	8
+92  	► SUTD  closed piechart	1.2	11
+92  	► Sapienza University of Rome  closed piechart	1.2	16
+92  	► Stevens Institute of Technology  closed piechart	1.2	15
+92  	► TTI Chicago  closed piechart	1.2	9
+92  	► TU Berlin  closed piechart	1.2	11
+92  	► TU Delft  closed piechart	1.2	18
+92  	► TU Wien  closed piechart	1.2	14
+92  	► The Hong Kong Polytechnic University  closed piechart	1.2	11
+92  	► UESTC  closed piechart	1.2	19
+92  	► UNSW  closed piechart	1.2	15
+92  	► USTC  closed piechart	1.2	12
+92  	► Univ. of California - Davis  closed piechart	1.2	15
+92  	► Univ. of California - Merced  closed piechart	1.2	7
+92  	► Universidade de Lisboa  closed piechart	1.2	20
+92  	► University of Alberta  closed piechart	1.2	19
+92  	► University of Amsterdam  closed piechart	1.2	11
+92  	► University of Birmingham  closed piechart	1.2	10
+92  	► University of Bonn  closed piechart	1.2	9
+92  	► University of Bremen  closed piechart	1.2	8
+92  	► University of Bristol  closed piechart	1.2	11
+92  	► University of Freiburg  closed piechart	1.2	7
+92  	► University of Hong Kong  closed piechart	1.2	11
+92  	► University of Liverpool  closed piechart	1.2	14
+92  	► University of Montreal  closed piechart	1.2	13
+92  	► University of Rochester  closed piechart	1.2	11
+92  	► University of Stuttgart  closed piechart	1.2	12
+92  	► University of Texas at Dallas  closed piechart	1.2	17
+92  	► University of Tsukuba  closed piechart	1.2	21
+92  	► University of Tübingen  closed piechart	1.2	13
+92  	► University of Warsaw  closed piechart	1.2	16
+92  	► University of Warwick  closed piechart	1.2	15
+92  	► Washington University in St. Louis  closed piechart	1.2	13
+92  	► Weizmann Institute of Science  closed piechart	1.2	15
+149 	► AUEB  closed piechart	1.1	4
+149 	► Aalborg University  closed piechart	1.1	8
+149 	► Aalto University  closed piechart	1.1	12
+149 	► Bauhaus University Weimar  closed piechart	1.1	3
+149 	► Ben-Gurion University of the Negev  closed piechart	1.1	7
+149 	► Binghamton University  closed piechart	1.1	9
+149 	► Birkbeck University of London  closed piechart	1.1	7
+149 	► Boston College  closed piechart	1.1	4
+149 	► Bundeswehr University Munich  closed piechart	1.1	2
+149 	► CUNY  closed piechart	1.1	7
+149 	► CWI  closed piechart	1.1	7
+149 	► Cardiff University  closed piechart	1.1	5
+149 	► Carleton University  closed piechart	1.1	5
+149 	► Chalmers/GU  closed piechart	1.1	13
+149 	► City University of Hong Kong  closed piechart	1.1	7
+149 	► Clemson University  closed piechart	1.1	4
+149 	► Colorado School of Mines  closed piechart	1.1	6
+149 	► Dartmouth College  closed piechart	1.1	7
+149 	► EURECOM  closed piechart	1.1	5
+149 	► Ecole Normale Superieure de Lyon  closed piechart	1.1	7
+149 	► Emory University  closed piechart	1.1	6
+149 	► Florida State University  closed piechart	1.1	8
+149 	► Friedrich Schiller University Jena  closed piechart	1.1	3
+149 	► Georgetown University  closed piechart	1.1	7
+149 	► Goethe University Frankfurt  closed piechart	1.1	5
+149 	► Hanyang University  closed piechart	1.1	6
+149 	► Hasso Plattner Institute  closed piechart	1.1	6
+149 	► Heidelberg University  closed piechart	1.1	8
+149 	► Heriot-Watt University  closed piechart	1.1	7
+149 	► Hong Kong Baptist University  closed piechart	1.1	5
+149 	► IIIT Hyderabad  closed piechart	1.1	7
+149 	► IISc Bangalore  closed piechart	1.1	11
+149 	► IIT Bombay  closed piechart	1.1	5
+149 	► IIT Delhi  closed piechart	1.1	8
+149 	► IIT Kharagpur  closed piechart	1.1	9
+149 	► IIT Madras  closed piechart	1.1	9
+149 	► IMDEA Software Institute  closed piechart	1.1	5
+149 	► IT University of Copenhagen  closed piechart	1.1	8
+149 	► JKU Linz  closed piechart	1.1	6
+149 	► KTH Royal Institute of Technology  closed piechart	1.1	4
+149 	► KU Leuven  closed piechart	1.1	13
+149 	► Karlsruhe Institute of Technology  closed piechart	1.1	8
+149 	► King's College London  closed piechart	1.1	10
+149 	► Korea University  closed piechart	1.1	5
+149 	► Kyoto University  closed piechart	1.1	10
+149 	► LMU Munich  closed piechart	1.1	8
+149 	► Lancaster University  closed piechart	1.1	10
+149 	► Lehigh University  closed piechart	1.1	4
+149 	► Macquarie University  closed piechart	1.1	5
+149 	► Middlesex University  closed piechart	1.1	4
+149 	► National Chiao Tung University  closed piechart	1.1	9
+149 	► Osaka University  closed piechart	1.1	9
+149 	► Politecnico di Milano  closed piechart	1.1	9
+149 	► Portland State University  closed piechart	1.1	2
+149 	► Qatar Computing Research Institute  closed piechart	1.1	9
+149 	► Queen Mary University of London  closed piechart	1.1	5
+149 	► Queen's University Belfast  closed piechart	1.1	5
+149 	► RMIT University  closed piechart	1.1	9
+149 	► Radboud University  closed piechart	1.1	5
+149 	► Rensselaer Polytechnic Institute  closed piechart	1.1	5
+149 	► Rochester Institute of Technology  closed piechart	1.1	10
+149 	► Royal Holloway University of London  closed piechart	1.1	11
+149 	► Ruhr-University Bochum  closed piechart	1.1	8
+149 	► SUFE  closed piechart	1.1	4
+149 	► Shandong University  closed piechart	1.1	6
+149 	► Shenzhen University  closed piechart	1.1	9
+149 	► Sun Yat-sen University  closed piechart	1.1	7
+149 	► Syracuse University  closed piechart	1.1	8
+149 	► TU Braunschweig  closed piechart	1.1	7
+149 	► TU Dortmund  closed piechart	1.1	4
+149 	► TU Dresden  closed piechart	1.1	7
+149 	► TU Eindhoven  closed piechart	1.1	10
+149 	► TU Kaiserslautern  closed piechart	1.1	6
+149 	► Temple University  closed piechart	1.1	8
+149 	► Tokyo Institute of Technology  closed piechart	1.1	8
+149 	► Tufts University  closed piechart	1.1	9
+149 	► Tulane University  closed piechart	1.1	4
+149 	► UFMG  closed piechart	1.1	12
+149 	► UFRGS  closed piechart	1.1	6
+149 	► UNIST  closed piechart	1.1	11
+149 	► University of Arizona  closed piechart	1.1	9
+149 	► University of Auckland  closed piechart	1.1	6
+149 	► University of Bergen  closed piechart	1.1	4
+149 	► University of Calgary  closed piechart	1.1	11
+149 	► University of Connecticut  closed piechart	1.1	6
+149 	► University of Erlangen–Nuremberg  closed piechart	1.1	6
+149 	► University of Essex  closed piechart	1.1	7
+149 	► University of Florida  closed piechart	1.1	10
+149 	► University of Georgia  closed piechart	1.1	5
+149 	► University of Glasgow  closed piechart	1.1	12
+149 	► University of Haifa  closed piechart	1.1	9
+149 	► University of Hamburg  closed piechart	1.1	5
+149 	► University of Hannover  closed piechart	1.1	6
+149 	► University of Helsinki  closed piechart	1.1	8
+149 	► University of Houston  closed piechart	1.1	7
+149 	► University of Ioannina  closed piechart	1.1	4
+149 	► University of Iowa  closed piechart	1.1	8
+149 	► University of Kentucky  closed piechart	1.1	6
+149 	► University of Konstanz  closed piechart	1.1	4
+149 	► University of Leeds  closed piechart	1.1	7
+149 	► University of Leipzig  closed piechart	1.1	2
+149 	► University of Lübeck  closed piechart	1.1	5
+149 	► University of Mannheim  closed piechart	1.1	6
+149 	► University of Massachusetts Lowell  closed piechart	1.1	7
+149 	► University of Nebraska  closed piechart	1.1	6
+149 	► University of Nevada  closed piechart	1.1	8
+149 	► University of New Hampshire  closed piechart	1.1	4
+149 	► University of Notre Dame  closed piechart	1.1	12
+149 	► University of Nottingham  closed piechart	1.1	7
+149 	► University of Pisa  closed piechart	1.1	6
+149 	► University of Queensland  closed piechart	1.1	3
+149 	► University of Salerno  closed piechart	1.1	8
+149 	► University of Sheffield  closed piechart	1.1	6
+149 	► University of South Carolina  closed piechart	1.1	7
+149 	► University of South Florida  closed piechart	1.1	4
+149 	► University of Southampton  closed piechart	1.1	7
+149 	► University of Surrey  closed piechart	1.1	13
+149 	► University of Tennessee  closed piechart	1.1	9
+149 	► University of Texas at Arlington  closed piechart	1.1	9
+149 	► University of Trento  closed piechart	1.1	9
+149 	► University of Ulm  closed piechart	1.1	7
+149 	► University of Victoria  closed piechart	1.1	8
+149 	► University of Vienna  closed piechart	1.1	6
+149 	► University of York  closed piechart	1.1	8
+149 	► University of Zurich  closed piechart	1.1	5
+149 	► Università della Svizzera italiana  closed piechart	1.1	7
+149 	► Université libre de Bruxelles  closed piechart	1.1	5
+149 	► Uppsala University  closed piechart	1.1	8
+149 	► Utrecht University  closed piechart	1.1	7
+149 	► VU Amsterdam  closed piechart	1.1	5
+149 	► Waseda University  closed piechart	1.1	4
+149 	► Washington State University  closed piechart	1.1	9
+149 	► Wayne State University  closed piechart	1.1	5
+149 	► Westlake University  closed piechart	1.1	2
+149 	► Worcester Polytechnic Institute  closed piechart	1.1	6
+149 	► Yonsei University  closed piechart	1.1	7
+149 	► York University  closed piechart	1.1	8
+286 	► American University of Beirut  closed piechart	1.0	1
+286 	► Ariel University  closed piechart	1.0	1
+286 	► BUET  closed piechart	1.0	1
+286 	► Bielefeld University  closed piechart	1.0	3
+286 	► Bilkent University  closed piechart	1.0	2
+286 	► Bocconi University  closed piechart	1.0	1
+286 	► Boğaziçi University  closed piechart	1.0	2
+286 	► Brandeis University  closed piechart	1.0	2
+286 	► Brandenburg University of Technology  closed piechart	1.0	1
+286 	► Brigham Young University  closed piechart	1.0	5
+286 	► Brno University of Technology  closed piechart	1.0	3
+286 	► CMI  closed piechart	1.0	1
+286 	► Case Western Reserve University  closed piechart	1.0	3
+286 	► Charles University  closed piechart	1.0	3
+286 	► City University of London  closed piechart	1.0	4
+286 	► Cleveland State University  closed piechart	1.0	1
+286 	► College of William and Mary  closed piechart	1.0	4
+286 	► Colorado State University  closed piechart	1.0	2
+286 	► Concordia University  closed piechart	1.0	4
+286 	► Cyprus University of Technology  closed piechart	1.0	2
+286 	► DTU  closed piechart	1.0	3
+286 	► Dalhousie University  closed piechart	1.0	5
+286 	► DePaul University  closed piechart	1.0	1
+286 	► Drexel University  closed piechart	1.0	2
+286 	► Durham University  closed piechart	1.0	5
+286 	► ETS Montreal  closed piechart	1.0	5
+286 	► Ecole Normale Superieure de Cachan  closed piechart	1.0	2
+286 	► Ecole Normale Superieure de Rennes  closed piechart	1.0	1
+286 	► Florida International University  closed piechart	1.0	4
+286 	► Freie Universitaet Berlin  closed piechart	1.0	1
+286 	► George Washington University  closed piechart	1.0	6
+286 	► Georgia State University  closed piechart	1.0	1
+286 	► Goldsmiths University of London  closed piechart	1.0	1
+286 	► Hacettepe University  closed piechart	1.0	1
+286 	► Hamburg University of Technology  closed piechart	1.0	1
+286 	► Humboldt University of Berlin  closed piechart	1.0	4
+286 	► Hunan University  closed piechart	1.0	5
+286 	► IIIT Delhi  closed piechart	1.0	5
+286 	► IIT Gandhinagar  closed piechart	1.0	3
+286 	► IIT Guwahati  closed piechart	1.0	1
+286 	► IIT Hyderabad  closed piechart	1.0	2
+286 	► IIT Jodhpur  closed piechart	1.0	2
+286 	► IIT Patna  closed piechart	1.0	3
+286 	► IMDEA Networks Institute  closed piechart	1.0	3
+286 	► IMSc  closed piechart	1.0	2
+286 	► IUPUI  closed piechart	1.0	2
+286 	► Illinois Institute of Technology  closed piechart	1.0	4
+286 	► Iowa State University  closed piechart	1.0	2
+286 	► KMUTNB  closed piechart	1.0	1
+286 	► Keio University  closed piechart	1.0	5
+286 	► Kent State University  closed piechart	1.0	3
+286 	► Koç University  closed piechart	1.0	1
+286 	► Kyungpook National University  closed piechart	1.0	2
+286 	► LUMS  closed piechart	1.0	4
+286 	► Loughborough University  closed piechart	1.0	1
+286 	► Louisiana State University  closed piechart	1.0	1
+286 	► Lund University  closed piechart	1.0	1
+286 	► Masaryk University  closed piechart	1.0	3
+286 	► Masdar Institute  closed piechart	1.0	1
+286 	► Massey University  closed piechart	1.0	1
+286 	► Memorial University of Newfoundland  closed piechart	1.0	2
+286 	► Michigan Technological University  closed piechart	1.0	1
+286 	► Middle East Technical University  closed piechart	1.0	1
+286 	► Mississippi State University  closed piechart	1.0	1
+286 	► NTNU  closed piechart	1.0	3
+286 	► NTUA  closed piechart	1.0	3
+286 	► NYU Shanghai  closed piechart	1.0	1
+286 	► National Cheng Kung University  closed piechart	1.0	1
+286 	► National Tsing Hua University  closed piechart	1.0	4
+286 	► Naval Postgraduate School  closed piechart	1.0	1
+286 	► New Mexico State University  closed piechart	1.0	1
+286 	► Northern Arizona University  closed piechart	1.0	1
+286 	► OHSU  closed piechart	1.0	1
+286 	► Oklahoma State University  closed piechart	1.0	2
+286 	► Old Dominion University  closed piechart	1.0	2
+286 	► Open University UK  closed piechart	1.0	4
+286 	► PUC-RIO  closed piechart	1.0	3
+286 	► PUC-RS  closed piechart	1.0	1
+286 	► Paderborn University  closed piechart	1.0	3
+286 	► Polytechnic University of Catalonia  closed piechart	1.0	3
+286 	► Polytechnique Montreal  closed piechart	1.0	2
+286 	► Qatar University  closed piechart	1.0	1
+286 	► Queen’s University  closed piechart	1.0	4
+286 	► Ryerson University  closed piechart	1.0	1
+286 	► Sabancı University  closed piechart	1.0	2
+286 	► Scuola Superiore Sant'Anna  closed piechart	1.0	2
+286 	► ShanghaiTech University  closed piechart	1.0	1
+286 	► Sharif University of Technology  closed piechart	1.0	3
+286 	► Stellenbosch University  closed piechart	1.0	1
+286 	► TU Chemnitz  closed piechart	1.0	2
+286 	► TU Freiberg  closed piechart	1.0	2
+286 	► TU Ilmenau  closed piechart	1.0	3
+286 	► Tata Inst. of Fundamental Research  closed piechart	1.0	3
+286 	► Texas State University  closed piechart	1.0	2
+286 	► Texas Tech University  closed piechart	1.0	1
+286 	► The Chinese University of Hong Kong  closed piechart	1.0	1
+286 	► The University of Alabama  closed piechart	1.0	1
+286 	► Tilburg University  closed piechart	1.0	2
+286 	► Tongji University  closed piechart	1.0	2
+286 	► Towson University  closed piechart	1.0	2
+286 	► UCCS  closed piechart	1.0	2
+286 	► UFF  closed piechart	1.0	1
+286 	► UFMS  closed piechart	1.0	1
+286 	► UFPE  closed piechart	1.0	3
+286 	► UNC - Charlotte  closed piechart	1.0	1
+286 	► UNICAMP  closed piechart	1.0	2
+286 	► USP  closed piechart	1.0	1
+286 	► USP-ICMC  closed piechart	1.0	2
+286 	► Univ. of Maryland - Baltimore County  closed piechart	1.0	4
+286 	► Universidad Nacional de Córdoba  closed piechart	1.0	1
+286 	► Universidad Rey Juan Carlos  closed piechart	1.0	1
+286 	► Universidad de Chile  closed piechart	1.0	1
+286 	► Universidad de Zaragoza  closed piechart	1.0	6
+286 	► Universidad de los Andes  closed piechart	1.0	2
+286 	► Universidade NOVA de Lisboa  closed piechart	1.0	4
+286 	► University of A Coruña  closed piechart	1.0	2
+286 	► University of Aberdeen  closed piechart	1.0	2
+286 	► University of Alabama - Birmingham  closed piechart	1.0	2
+286 	► University of Arkansas  closed piechart	1.0	2
+286 	► University of Athens  closed piechart	1.0	2
+286 	► University of Augsburg  closed piechart	1.0	1
+286 	► University of Bamberg  closed piechart	1.0	1
+286 	► University of Bath  closed piechart	1.0	5
+286 	► University of Bayreuth  closed piechart	1.0	2
+286 	► University of Bern  closed piechart	1.0	1
+286 	► University of Buenos Aires  closed piechart	1.0	1
+286 	► University of Canterbury  closed piechart	1.0	2
+286 	► University of Cape Town  closed piechart	1.0	2
+286 	► University of Cincinnati  closed piechart	1.0	2
+286 	► University of Crete  closed piechart	1.0	3
+286 	► University of Delaware  closed piechart	1.0	4
+286 	► University of Duisburg-Essen  closed piechart	1.0	3
+286 	► University of Düsseldorf  closed piechart	1.0	2
+286 	► University of Exeter  closed piechart	1.0	1
+286 	► University of Groningen  closed piechart	1.0	1
+286 	► University of Guelph  closed piechart	1.0	3
+286 	► University of Göttingen  closed piechart	1.0	3
+286 	► University of Halle-Wittenberg  closed piechart	1.0	1
+286 	► University of Hawaii at Manoa  closed piechart	1.0	2
+286 	► University of Kansas  closed piechart	1.0	3
+286 	► University of Kent  closed piechart	1.0	3
+286 	► University of Kiel  closed piechart	1.0	3
+286 	► University of Koblenz-Landau  closed piechart	1.0	2
+286 	► University of Louisiana - Lafayette  closed piechart	1.0	1
+286 	► University of Luxembourg  closed piechart	1.0	2
+286 	► University of Magdeburg  closed piechart	1.0	2
+286 	► University of Mainz  closed piechart	1.0	3
+286 	► University of Manchester  closed piechart	1.0	1
+286 	► University of Manitoba  closed piechart	1.0	2
+286 	► University of Marburg  closed piechart	1.0	1
+286 	► University of Massachusetts Boston  closed piechart	1.0	1
+286 	► University of Memphis  closed piechart	1.0	3
+286 	► University of Michigan-Dearborn  closed piechart	1.0	1
+286 	► University of Missouri  closed piechart	1.0	1
+286 	► University of Molise  closed piechart	1.0	1
+286 	► University of Murcia  closed piechart	1.0	2
+286 	► University of Münster  closed piechart	1.0	2
+286 	► University of Nebraska - Omaha  closed piechart	1.0	1
+286 	► University of New Brunswick  closed piechart	1.0	1
+286 	► University of New Mexico  closed piechart	1.0	1
+286 	► University of Newcastle  closed piechart	1.0	1
+286 	► University of North Texas  closed piechart	1.0	3
+286 	► University of Oldenburg  closed piechart	1.0	2
+286 	► University of Oregon  closed piechart	1.0	3
+286 	► University of Osnabrück  closed piechart	1.0	1
+286 	► University of Otago  closed piechart	1.0	2
+286 	► University of Ottawa  closed piechart	1.0	4
+286 	► University of Passau  closed piechart	1.0	2
+286 	► University of Potsdam  closed piechart	1.0	1
+286 	► University of Regina  closed piechart	1.0	2
+286 	► University of Rostock  closed piechart	1.0	1
+286 	► University of Salzburg  closed piechart	1.0	3
+286 	► University of Sannio  closed piechart	1.0	1
+286 	► University of Saskatchewan  closed piechart	1.0	2
+286 	► University of Siegen  closed piechart	1.0	3
+286 	► University of St Andrews  closed piechart	1.0	2
+286 	► University of Sussex  closed piechart	1.0	4
+286 	► University of Tartu  closed piechart	1.0	1
+286 	► University of Texas - El Paso  closed piechart	1.0	2
+286 	► University of Texas at San Antonio  closed piechart	1.0	1
+286 	► University of Tulsa  closed piechart	1.0	2
+286 	► University of Vermont  closed piechart	1.0	1
+286 	► University of Waikato  closed piechart	1.0	4
+286 	► University of Western Australia  closed piechart	1.0	2
+286 	► University of Wisconsin - Milwaukee  closed piechart	1.0	1
+286 	► University of Wroclaw  closed piechart	1.0	5
+286 	► University of Wuppertal  closed piechart	1.0	2
+286 	► University of Wyoming  closed piechart	1.0	1
+286 	► University of Würzburg  closed piechart	1.0	1
+286 	► Université Jean Monnet  closed piechart	1.0	2
+286 	► Université de Sherbrooke  closed piechart	1.0	3
+286 	► Utah State University  closed piechart	1.0	1
+286 	► Vanderbilt University  closed piechart	1.0	4
+286 	► Victoria University of Wellington  closed piechart	1.0	4
+286 	► Virginia Commonwealth University  closed piechart	1.0	2
+286 	► West Virginia University  closed piechart	1.0	4
+286 	► Western Michigan University  closed piechart	1.0	1
+286 	► Western University  closed piechart	1.0	1
+286 	► Wuhan University  closed piechart	1.0	2
